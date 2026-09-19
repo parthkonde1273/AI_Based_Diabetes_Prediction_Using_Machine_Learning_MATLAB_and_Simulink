@@ -99,7 +99,7 @@ The model is trained using the Adam optimizer.
 
 ## Neural Network Architecture
 
-![Neural Network Architecture](screenshots/neural_network_architecture.png)
+![Neural Network Architecture](neural_network_architecture.png)
 
 ## Training Progress
 
