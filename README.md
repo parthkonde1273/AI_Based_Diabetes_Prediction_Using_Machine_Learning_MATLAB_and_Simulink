@@ -103,31 +103,31 @@ The model is trained using the Adam optimizer.
 
 ## Training Progress
 
-![Training Progress](screenshots/training_progress.png)
+![Training Progress](training_progress.png)
 
 ## Training Performance
 
-![Training Performance](screenshots/training_performance.png)
+![Training Performance](training_performance.png)
 
 ## Training State
 
-![Training State](screenshots/training_state.png)
+![Training State](training_state.png)
 
 ## Error Histogram
 
-![Error Histogram](screenshots/error_histogram.png)
+![Error Histogram](error_histogram.png)
 
 ## Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Training Confusion
 
-![Training Confusion](screenshots/training_confusion.png)
+![Training Confusion](training_confusion.png)
 
 ## ROC Curve
 
-![ROC Curve](screenshots/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 # 💻 MATLAB Implementation
 
@@ -150,7 +150,7 @@ The MATLAB implementation includes:
 
 ### MATLAB Code
 
-![MATLAB Code](screenshots/matlab_code.png)
+![MATLAB Code](matlab_code.png)
 
 # 🔄 Simulink Implementation
 
@@ -180,7 +180,7 @@ The trained neural network is saved as:
 
 ## Simulink Model
 
-![Simulink Model](screenshots/simulink_model.png)
+![Simulink Model](simulink_model.png)
 
 # 🧪 Example Patient Prediction
 
